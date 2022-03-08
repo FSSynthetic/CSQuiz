@@ -62,7 +62,7 @@ namespace CSQuiz {
 
             string Q6 = "----------------------------------------" +
                         "\nQuestion Six:" +
-                        "\nWhat is the name of Marilyn Manson" +
+                        "\nWhat is the name of Marilyn Manson" + // I totally didn't finish this question but I'm too lazy to finish it.
                         "\n\nA) Dude, what the hell" +
                         "\nB) Portrait Of An American Family" +
                         "\nC) Man, oh man, wow" +
