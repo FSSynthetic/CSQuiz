@@ -1,0 +1,15 @@
+C:\Users\fssyn\source\repos\CSQuiz\CSQuiz\bin\Debug\net6.0\CSQuiz.exe
+C:\Users\fssyn\source\repos\CSQuiz\CSQuiz\bin\Debug\net6.0\CSQuiz.deps.json
+C:\Users\fssyn\source\repos\CSQuiz\CSQuiz\bin\Debug\net6.0\CSQuiz.runtimeconfig.json
+C:\Users\fssyn\source\repos\CSQuiz\CSQuiz\bin\Debug\net6.0\CSQuiz.dll
+C:\Users\fssyn\source\repos\CSQuiz\CSQuiz\bin\Debug\net6.0\CSQuiz.pdb
+C:\Users\fssyn\source\repos\CSQuiz\CSQuiz\obj\Debug\net6.0\CSQuiz.csproj.AssemblyReference.cache
+C:\Users\fssyn\source\repos\CSQuiz\CSQuiz\obj\Debug\net6.0\CSQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fssyn\source\repos\CSQuiz\CSQuiz\obj\Debug\net6.0\CSQuiz.AssemblyInfoInputs.cache
+C:\Users\fssyn\source\repos\CSQuiz\CSQuiz\obj\Debug\net6.0\CSQuiz.AssemblyInfo.cs
+C:\Users\fssyn\source\repos\CSQuiz\CSQuiz\obj\Debug\net6.0\CSQuiz.csproj.CoreCompileInputs.cache
+C:\Users\fssyn\source\repos\CSQuiz\CSQuiz\obj\Debug\net6.0\CSQuiz.dll
+C:\Users\fssyn\source\repos\CSQuiz\CSQuiz\obj\Debug\net6.0\refint\CSQuiz.dll
+C:\Users\fssyn\source\repos\CSQuiz\CSQuiz\obj\Debug\net6.0\CSQuiz.pdb
+C:\Users\fssyn\source\repos\CSQuiz\CSQuiz\obj\Debug\net6.0\CSQuiz.genruntimeconfig.cache
+C:\Users\fssyn\source\repos\CSQuiz\CSQuiz\obj\Debug\net6.0\ref\CSQuiz.dll
